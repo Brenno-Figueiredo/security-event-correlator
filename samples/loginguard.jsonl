@@ -1,0 +1,5 @@
+{"ts": 1792541538.3434355, "rule": "success_after_failures", "severity": "critical", "source": "203.0.113.50", "user": "deploy", "title": "Login bem-sucedido em 'deploy' após 4 falhas"}
+{"ts": 1792542438.3434355, "rule": "account_bruteforce", "severity": "high", "source": "198.51.100.7", "user": "admin", "title": "Força bruta na conta 'admin' de 198.51.100.7"}
+{"ts": 1792542441.3434355, "rule": "account_bruteforce", "severity": "high", "source": "198.51.100.23", "user": "admin", "title": "Força bruta na conta 'admin' de 198.51.100.23"}
+{"ts": 1792542444.3434355, "rule": "account_bruteforce", "severity": "high", "source": "203.0.113.77", "user": "admin", "title": "Força bruta na conta 'admin' de 203.0.113.77"}
+{"ts": 1792542447.3434355, "rule": "account_bruteforce", "severity": "high", "source": "192.0.2.44", "user": "admin", "title": "Força bruta na conta 'admin' de 192.0.2.44"}

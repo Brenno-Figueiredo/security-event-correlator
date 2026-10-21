@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.idea/
+
+# Resultados e dados reais (contêm IPs e contas)
+painel*.html
+correl*.json
+*.db

